@@ -1,8 +1,8 @@
-### Sistemas_Operativos
-## Apuntes y ejercicios realizados en clase.
+# Apuntes y ejercicios realizados en clase de Sistemas Operativos. 
 
-# TEMA I-A INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS
-1.1 ¿Qué hace un sistema operativo?
+## TEMA I-A INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS
+
+1.1. ¿Qué hace un sistema operativo?
 1.2 Organización de una computadora
 1.3 Arquitecturas de computadores
 1.4 Estructura del sistema Operativo
@@ -14,7 +14,7 @@
 1.10 Organizaciones del Sistema Operativo
 1.11 Entornos de computación
 
-# TEMA II ESTÁNDAR POSIX – PROGRAMACIÓN DE SO EN C
+### TEMA II ESTÁNDAR POSIX – PROGRAMACIÓN DE SO EN C
 
 2.1 Introducción
 2.2 Trabajando con POSIX
@@ -28,7 +28,7 @@
 2.10 Señales
 2.11 Gestión de errores
 
-# TEMA III PROCESOS
+### TEMA III PROCESOS
 
 3.1 Concepto de proceso
 3.2 Planificación de procesos
@@ -40,7 +40,7 @@
 3.8 Planificación de procesos en Linux
 3.9 Procesos en Windows
 
-# TEMA IV. GESTIÓN DE LA CPU
+### TEMA IV. GESTIÓN DE LA CPU
 
 4.1 Conceptos básicos
 4.2 Planificación apropiativa / cooperativa
@@ -48,7 +48,7 @@
 4.4 Criterios de planificación
 4.5 Algoritmos de planificación
 
-# TEMA V. MEMORIA PRINCIPAL
+### TEMA V. MEMORIA PRINCIPAL
 
 5.1 Fundamentos
 5.2 Intercambio (Swapping)
@@ -56,7 +56,7 @@
 5.4 Paginación
 5.5 Segmentación
 
-# TEMA VI. MEMORIA VIRTUAL
+### TEMA VI. MEMORIA VIRTUAL
 
 6.1 Fundamentos
 6.2 Paginación bajo demanda
@@ -64,7 +64,7 @@
 6.4 Asignación de marcos
 6.5 Sobrepaginación
 
-# TEMA VII. Gestión del almacenamiento auxiliar
+### TEMA VII. Gestión del almacenamiento auxiliar
 
 7.1 Concepto de archivo
 7.2 Estructura de un sistema de archivos
@@ -72,7 +72,7 @@
 7.4 Gestión del espacio libre
 7.5 Planificación y gestión de disco
 
-# TEMA VIII. DISPOSITIVOS DE E/S
+### TEMA VIII. DISPOSITIVOS DE E/S
 
 8.1 Introduccion
 8.2 Hardware de E/S
@@ -81,7 +81,7 @@
 8.5 Esquema de las operaciones E/S
 8.6 Streams
 
-# IX SEGURIDAD
+### IX SEGURIDAD
 
 9.1 El problema de la seguridad
 9.2 Amenazas en el software
